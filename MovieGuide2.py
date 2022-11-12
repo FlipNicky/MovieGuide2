@@ -1,3 +1,7 @@
+#Philip Nicholson
+#CIS261
+#Movie Guide 2
+
 FILENAME = "movies.txt"
 
 def write_movies(movies):
